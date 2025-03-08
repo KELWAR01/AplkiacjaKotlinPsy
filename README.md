@@ -1,5 +1,7 @@
 # Prosta aplikacja do zarządzania listą psów
 
+Poniżej zrzuty z UI:
+
 
 ![obraz](https://github.com/user-attachments/assets/59005df6-d166-4181-9baa-7467d3778c34)
 
@@ -23,6 +25,13 @@
 ![obraz](https://github.com/user-attachments/assets/faa92bb1-1ff2-4865-907a-ee9f90df064d)
 
 
-![obraz](https://github.com/user-attachments/assets/e3e8f3f7-fe4b-47b9-9343-cffd51c4da38)
+![obraz](https://github.com/user-attachments/assets/ebca24b3-7303-4210-af8d-c089b4f2898c)
+
+
+Obsługiwane funkcje: 
+-> przeglądanie listy psów
+-> wyszukiwanie psów po rasie
+-> wyszukiwanie psów po imieniu
+-> dodawainie nowych psów
 
 
