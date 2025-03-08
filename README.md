@@ -29,9 +29,9 @@ Poniżej zrzuty z UI:
 
 
 Obsługiwane funkcje: 
--> przeglądanie listy psów
--> wyszukiwanie psów po rasie
--> wyszukiwanie psów po imieniu
--> dodawainie nowych psów
+*  przeglądanie listy psów
+*  wyszukiwanie psów po rasie
+*  wyszukiwanie psów po imieniu
+*  dodawainie nowych psów
 
 
